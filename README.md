@@ -43,7 +43,8 @@ Developed by: RegisterNumber:*/
 **Trutn Table:**
 ![Alt text](truthtable.png)
 
-**Timing Diagram**
+**Timing Diagram
+![Alt text](timingdiaram.png)
 
 **Result:**
 
