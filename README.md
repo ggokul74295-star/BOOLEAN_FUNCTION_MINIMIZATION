@@ -41,7 +41,7 @@ Developed by: RegisterNumber:*/
 **RTL realization**
 ![Alt text](circuitdiag.png)
 **Trutn Table:**
-![Alt text](truth table.png)
+![Alt text](truthtable.png)
 
 **Timing Diagram**
 
