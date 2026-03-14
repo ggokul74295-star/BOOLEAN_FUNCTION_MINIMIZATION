@@ -39,7 +39,7 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
-
+![Alt text](circuitdiag.png)
 **Output:**
 
 **RTL**
