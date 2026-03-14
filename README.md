@@ -40,9 +40,8 @@ Developed by: RegisterNumber:*/
 
 **RTL realization**
 ![Alt text](circuitdiag.png)
-**Output:**
-
-**RTL**
+**Trutn Table:**
+![Alt text](truth table.png)
 
 **Timing Diagram**
 
